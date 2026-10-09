@@ -1,0 +1,11 @@
+
+iframe {
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ff6ec7;
+  transition: transform 0.3s ease-in-out;
+}
+
+iframe:hover {
+  transform: scale(1.05);
+}
